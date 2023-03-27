@@ -33,3 +33,5 @@ cv2.destroyAllWindows()
 ~~~
 
 ## Result
+<img width="1440" alt="스크린샷 2023-03-26 오후 10 07 58" src="https://user-images.githubusercontent.com/119654152/227978790-40f1b46b-4dad-4a29-b5a3-32e8e57e4e58.png">
+
