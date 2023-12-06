@@ -21,7 +21,7 @@ from tkinter.filedialog import *
 
 
 photo = askopenfilename()
-img = cv2.imread(photo)
+img = cv2.imread(photo)  
 
 
 grey = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
